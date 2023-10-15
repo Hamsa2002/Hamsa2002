@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hamsa
-- 👀 I’m interested in coding, programmin, and web development.
+- 👀 I’m interested in coding, programming, and web development.
 - 🌱 I’m currently learning computer science.
 - 📫 How to reach me: hamsajaber02@gmail.com
 
